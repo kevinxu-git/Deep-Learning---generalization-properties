@@ -1,4 +1,4 @@
-# Deep-Learning-generalization-properties Project : Notebook + presentation
+# Deep-Learning-generalization-properties Project : Notebook + presentation - 02/2020
 + Master 2 Data Science at Ecole Polytechnique in France
 + Report on a research article realized for the validation of the course Generalisation properties of algorithms in ML
 + Project on generalization properties in Deep Learning & Presentation of a paper
