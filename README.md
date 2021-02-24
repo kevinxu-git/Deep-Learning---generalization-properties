@@ -1,4 +1,4 @@
-# Deep-Learning-generalization-properties Project
+# Projects on ML Generalization Properties
 > February-March 2020 : Master 2 Data Science at Ecole Polytechnique in France
 
 + Projects for the course Generalisation properties of algorithms in ML
