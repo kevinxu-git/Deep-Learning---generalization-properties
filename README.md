@@ -25,7 +25,7 @@ The aim of the paper is to analyze how the step-size (a.k.a learning rate) and t
 
 Our goal was to clearly and easily explain the regularization effect of these parameters to people that have not read the paper.
 
-# The Team
+# Authors
 + **Kevin XU** - *Master 2 Data Science student* - [kevinxu-git](https://github.com/kevinxu-git)
 + **Pierre ADEIKALAM** - *Master 2 Data Science student*
 + **Guangyue CHEN** - *Master 2 Data Science student* 
